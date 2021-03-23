@@ -1,0 +1,12 @@
+template:
+  params:
+    bootswatch: cerulean
+
+navbar:
+  title: "IDEEA"
+  type: inverse
+  left:
+    - text: ""
+  right:
+    - icon: fa-github
+      href: https://github.com/ideea-model

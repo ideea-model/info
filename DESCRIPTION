@@ -1,0 +1,13 @@
+Package: IDEEA
+Title: Indian Zero Carbon Energy Pathways (IDEEA)
+Version: 
+Authors@R: 
+    person(given = "IDEEA",
+           family = "team",
+           role = c("aut", "cre"))
+Description: information page
+License: 
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
