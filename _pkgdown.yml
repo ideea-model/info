@@ -1,6 +1,7 @@
 template:
   params:
     bootswatch: cerulean
+     ganalytics: G-LMJ90G87LV
 
 navbar:
   title: "IDEEA"
